@@ -4,6 +4,7 @@
     "keywords": ["yii2", "cass", "cassandra", "active-record"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Rens Manders",
