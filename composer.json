@@ -1,5 +1,5 @@
 {
-    "name": "yii2/activeCassandra",
+    "name": "yii2/activecassandra",
     "description": "Cassandra extension for the Yii framework",
     "keywords": ["yii2", "cass", "cassandra", "active-record"],
     "type": "yii2-extension",
