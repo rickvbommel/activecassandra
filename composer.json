@@ -7,10 +7,15 @@
     "version": "1.0.0",
     "authors": [
         {
-            "name": "Rens Manders",
+            "name": "Rens Manders"
         }
     ],
     "require": {
         "yiisoft/yii2": ">=2.0.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "activecassandra": "/"
+        }
     }
 }
