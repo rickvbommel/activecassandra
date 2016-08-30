@@ -6,7 +6,7 @@
 
 namespace vendor\mercadoweb\activecassandra;
 
-use vendor\duoshuo\php-cassandra;
+use vendor\duoshuo;
 use yii\base\Component;
 use yii\base\InvalidConfigException;
 use Yii;
