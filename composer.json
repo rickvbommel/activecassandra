@@ -1,0 +1,17 @@
+{
+    "name": "yii2\cassandra",
+    "description": "Cassandra extension for the Yii framework",
+    "keywords": ["yii2", "cass", "cassandra", "active-record"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Rens Manders",
+            "email": "rens.manders@home.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.5",
+        "ext-cassanndra": ">=1.0.0"
+    }
+}
