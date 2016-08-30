@@ -8,10 +8,14 @@
     "authors": [
         {
             "name": "Rens Manders",
-            "email": "rens.manders@home.nl"
         }
     ],
     "require": {
         "yiisoft/yii2": ">=2.0.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "activecassandra": "/"
+        }
     }
 }
