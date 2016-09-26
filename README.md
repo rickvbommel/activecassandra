@@ -1,3 +1,3 @@
 # activeCassandra
 
-test
+This extension is under development.
